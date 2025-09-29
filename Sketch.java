@@ -32,6 +32,7 @@ public class Sketch extends PApplet {
             save("image.png");
             exit();
         }
+    }
 
     /**
      * Launches the sketch.
